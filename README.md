@@ -1,8 +1,8 @@
 <img align="center" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif" width="2500" height="400"></img>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&Center=true&width=500&height=70&duration=4000&lines=Yo+wussup+🤙;I'm+Akshay+Gangasagar+(+＾◡＾)っ;I'm+a+Developer+🧑🏻‍💻;I'm+a+UI/UX Designer ;I'm+a+Lifelong+Learner+🤍;I'm+a+Pluviophile+✨💫;I'm+a+Shutterbug+📸;"/>
-<!--     <b>Yo, I'm Akshay Gangasagar 🤙</b> -->
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&Center=true&width=500&height=70&duration=4000&lines=Yo+wussup+🤙;I'm+Akshay+Gangasagar+(+＾◡＾)っ;I'm+a+Developer+🧑🏻‍💻;I'm+a+UI/UX+Designer+🤍;I'm+a+Puvlophile+✨💫;I'm+a+LifeLong+Learner;"/>
+<!--     <b>Yo, Akshay Gangasagar🤙</b> -->
 </h1>
 
 <h4 align="center">
