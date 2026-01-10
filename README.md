@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🎒 I'm pursuing my studies as a Cyber Security @ G.H.Raisoni (GHRCEMN)
 - 🌟 Love making interactive websites in Web2 
 - 🤔 Currently diving deeper into Web3 & Blockchain technology
-- 💬 How to reach me: [X](https://x.com/AkkhiGangasagar) || [Instagram](https://www.instagram.com/its_gangasagar05/)
+- 💬 How to reach me: [X](https://x.com/AkkhiGangasagar) || [Linkedin](https://www.linkedin.com/in/akshay-gangasagar-67b25b305//)
 - 🕵️‍♂️ Always looking for Freelancing job opportunities 
 
 <details>
