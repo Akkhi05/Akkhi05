@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h2>
 
 - 🧑🏻‍💻 I'm a nub Frontend Developer documenting my work and projects @ via [GitHub](https://github.com/Akkhi05)
-- 🎒 I'm pursuing my studies as a Cyber Security @ G.H.Raisoni (GHRCEMN)
+- 🎒 Recently CyberSecurity Graduate....!!! @ G.H.Raisoni (GHRCEMN)
 - 🌟 Love making interactive websites in Web2 
 - 🤔 Currently diving deeper into Web3 & Blockchain technology
 - 💬 How to reach me: [X](https://x.com/AkkhiGangasagar) || [Linkedin](https://www.linkedin.com/in/akshay-gangasagar-67b25b305//)
